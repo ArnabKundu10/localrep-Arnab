@@ -1,6 +1,5 @@
 #include <iostream>
 int main()
 {
-   int i = 7;
-   int x = 9;
-}
+   int i = (((7)));
+} /* hey error */
